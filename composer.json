@@ -1,0 +1,20 @@
+{
+    "name": "dhtml/image_resize",
+    "description": "image_resize is a a simple image resize library.",
+    "homepage": "http://dhtmlframework.com/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anthony Ogundipe",
+            "email": "support@dhtmlextreme.net",
+            "homepage": "http://www.dhtmlextreme.net/",
+            "role": "Original Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "files": [ "lib/image_resize.php" ]
+    }
+}
